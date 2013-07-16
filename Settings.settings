@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WeiboConsole" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="CallbackUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="AppKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">4292614679</Value>
+    </Setting>
+    <Setting Name="AppSecrect" Type="System.String" Scope="User">
+      <Value Profile="(Default)">09417c61cb62542dab6186b846d49ca3</Value>
+    </Setting>
+    <Setting Name="AccessToken" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Your AccessToken</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
